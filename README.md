@@ -1,2 +1,7 @@
-# node-cryptoforknote-util
-NodeJS wrappers for Cryptonode/Forknote coins
+Node-CryptoForkNote-Util with Merged Mining support
+===================================================
+
+Dependencies
+------------
+
+* Boost (http://www.boost.org/)
